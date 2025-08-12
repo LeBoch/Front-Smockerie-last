@@ -59,6 +59,8 @@ yarn test
 4. Poussez la branche : `git push origin ma-fonctionnalite`
 5. Ouvrez une Pull Request
 
-## Licence
+## Login User
+ Username = "testuser",
+ Email = "test@example.com",
+ MDP  = Test@123
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
